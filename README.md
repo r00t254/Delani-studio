@@ -15,3 +15,8 @@ m that enables users to send their messages and concern to Delani studio.
 
 #Known bugs.
 No known bugs
+
+Contact information
+Incase of any inquiry you can reach out though:
+
+
