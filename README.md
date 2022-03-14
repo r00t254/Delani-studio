@@ -7,3 +7,4 @@ This project is a web application for Delani studio that shows details about the
 m that enables users to send their messages and concern to Delani studio.
 # Live link.
 #Technology used.
+.HTML
