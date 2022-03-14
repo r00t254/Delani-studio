@@ -13,5 +13,5 @@ m that enables users to send their messages and concern to Delani studio.
 .Jquery
 .Bootstrap
 
-#Known bugs
+#Known bugs.
 No known bugs
