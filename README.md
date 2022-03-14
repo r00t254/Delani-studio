@@ -23,5 +23,6 @@ Incase of any inquiry you can reach out though:
 
 #License
 License MIT
-copyright
+
+#copyright(c)
 
