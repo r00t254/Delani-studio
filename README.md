@@ -10,10 +10,10 @@ https://r00t254.github.io/Delani-studio/
 
 #Technology used.
 
-HTML
-CSS
-Jquery
-Bootstrap
+.HTML
+.CSS
+.Jquery
+.Bootstrap
 
 #Known bugs.
 No known bugs
