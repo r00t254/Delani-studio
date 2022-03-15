@@ -1,6 +1,30 @@
 .landing{
-    background-image:url(..IP3-master/assets/backgrounds/h_img.jpg);
-    height: 120px; 
+    background-image: url(./IP3-master/assets/backgrounds/h_img.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    position: relative;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.services{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("/IP3-master/assets/backgrounds/s_image.jpg");
+    height: 50vh;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 10%;
+    color: bisque;
+    padding border-bottom: 10%;
+}
+.design{
+    background-image: url("./IP3-master/assets/services_icons/design_icon.png");
+    height: 40vh;
     background-repeat: no-repeat;
     background-size: cover;
 }
