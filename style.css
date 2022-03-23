@@ -8,6 +8,7 @@
     align-items: center;
     display: flex;
     justify-content: center;
+    
 }
 .services{
     display: flex;
@@ -19,12 +20,54 @@
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     padding-top: 10%;
-    color: bisque;
+    color: beige;
+      }
 
-}
 .design{
     background-image: url("./IP3-master/assets/services_icons/design_icon.png");
     height: 40vh;
     background-repeat: no-repeat;
     background-size: cover;
+    align-items: center;
+}
+.portfolio h2{
+    text-align: center;
+    padding-top:40px;
+    font-family: 'Gabriela', serif; display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left:18%;
+    margin-right: 16%; 
+  }
+
+  .portfolio .col-md-3{
+      column-gap: 5px;
+      align-items: center;
+  }
+  button,
+[type="button"],
+[type="reset"],
+[type="submit"] 
+  
+input{
+    background-color: transparent;
+    box-sizing: content-box;
+    text-align: end;
+}
+form{
+    background-image: url(./IP3-master/assets/backgrounds/c_image.jpg);
+}
+text area{
+    background-color: transparent;
+}
+.text{
+    position: relative;
+    top: -45%;
+    left: 80%;
+    transform: translate(-50%,-40%);
+    font-size: 30px;
+    color:royalblue;
+    display:none ;
+     
+
 }
