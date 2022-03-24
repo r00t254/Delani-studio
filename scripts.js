@@ -5,6 +5,32 @@ $(document).ready(function(){
         var speed= 3000
         $(this).children(".hide").slideToggle(speed)
     });
+
+
+    $("#des").click(function(){
+        $("#des").toggle();
+        $(".des").toggle();
+    });
+    $(".des").click(function(){
+        $(".des").toggle();
+        $("#des").toggle();
+    });
+    $("#dev").click(function(){
+        $("#dev").toggle();
+        $(".dev").toggle();
+    });
+    $(".dev").click(function(){
+        $(".dev").toggle();
+        $("#dev").toggle();
+    });
+    $("#prod").click(function(){
+        $("#prod").toggle();
+        $(".prod").toggle();
+    });
+    $(".prod").click(function(){
+        $(".prod").toggle();
+        $("#prod").toggle();
+    });
 });
 
 // Collecting user's input on the contact us form

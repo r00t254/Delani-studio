@@ -68,6 +68,19 @@ text area{
     font-size: 30px;
     color:royalblue;
     display:none ;
-     
-
+}
+body{
+    text-align: center;
+}
+.des{
+    display: none;
+}
+.dev{
+    display: none;
+}
+.prod{
+    display: none;
+}
+#port{
+    text-align: center;
 }
